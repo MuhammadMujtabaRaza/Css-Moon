@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.moon{
+    width: 450px;
+    height: 450px;
+    border-radius: 100%;
+    box-shadow: inset -60px -60px white;
+    margin: 0px auto;
+}
